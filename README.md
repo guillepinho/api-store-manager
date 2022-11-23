@@ -76,6 +76,8 @@ npm run test:mocha
 
 ## :books: Documentação
 
+Há um arquivo de Collection de HTTP Requests `query_collections.json`, use-o caso queira verificar exemplos das rotas.
+
 ### Rotas - Products
 
 - GET <code>/products</code> : Lista todos os produtos da loja.
